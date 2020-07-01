@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed4e2a35-9a9b-4b9a-ab7b-4f56f96f2019" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/../../../ML/venv/DecisionTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/venv/KMeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/venv/KMeans2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/venv/female.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/venv/male.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/venv/pet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ML/venv/pm2.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/cache/download/github.com/davecgh/go-spew/@v/v1.1.1.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/cache/download/github.com/davecgh/go-spew/@v/v1.1.1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/cache/download/github.com/davecgh/go-spew/@v/v1.1.1.ziphash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/cache/download/github.com/pmezard/go-difflib/@v/v1.0.0.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/cache/download/github.com/pmezard/go-difflib/@v/v1.0.0.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/cache/download/github.com/pmezard/go-difflib/@v/v1.0.0.ziphash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/cache/download/github.com/stretchr/testify/@v/v1.4.0.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/cache/download/github.com/stretchr/testify/@v/v1.4.0.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/cache/download/github.com/stretchr/testify/@v/v1.4.0.ziphash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/cache/lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/cov_report.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/bypass.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/bypasssafe.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/common_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/dump.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/dump_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/dumpcgo_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/dumpnocgo_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/example_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/format.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/format_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/internal_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/internalunsafe_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/spew.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/spew_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/spew/testdata/dumpcgo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/davecgh/go-spew@v1.1.1/test_coverage.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/pmezard/go-difflib@v1.0.0/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/pmezard/go-difflib@v1.0.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/pmezard/go-difflib@v1.0.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/pmezard/go-difflib@v1.0.0/difflib/difflib.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/pmezard/go-difflib@v1.0.0/difflib/difflib_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/.travis.gofmt.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/.travis.gogenerate.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/.travis.govet.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/Gopkg.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/Gopkg.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/_codegen/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/assertion_format.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/assertion_format.go.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/assertion_forward.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/assertion_forward.go.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/assertion_order.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/assertion_order_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/assertions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/assertions_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/errors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/forward_assertions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/forward_assertions_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/http_assertions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/assert/http_assertions_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/http/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/http/test_response_writer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/http/test_round_tripper.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/mock/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/mock/mock.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/mock/mock_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/package_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/require/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/require/forward_requirements.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/require/forward_requirements_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/require/require.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/require/require.go.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/require/require_forward.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/require/require_forward.go.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/require/requirements.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/require/requirements_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/suite/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/suite/interfaces.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/suite/suite.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pkg/mod/github.com/stretchr/testify@v1.4.0/suite/suite_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../知网/venv/知网.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../知网/venv/笔趣阁.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ML/venv/homework" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ML/venv/clw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../db/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db/venv/DB.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../db/venv/DB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../github.com/dxxhjk/covid19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../笔趣阁/.idea/笔趣阁.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../笔趣阁/.idea/笔趣阁.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e4vrCYrerqajh3xcvjqepAwoPl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Sudoku-backend" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="covid19" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="201" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593606557796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="201" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593606557796" />
+    <state x="443" y="37" key="#go_build_main.go" timestamp="1593606562605">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="443" y="37" key="#go_build_main.go/0.0.1536.824@0.0.1536.824" timestamp="1593606562605" />
+    <state x="526" y="168" key="FileChooserDialogImpl" timestamp="1593608424245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593608424245" />
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1593609217300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593609217300" />
+    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1593609217300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593609217300" />
+    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1593609217300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593609217300" />
+    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1593609217300">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593609217300" />
+  </component>
+</project>
